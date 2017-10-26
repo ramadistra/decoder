@@ -1,0 +1,40 @@
+.App {
+  margin: 0 auto;
+  max-width: 36em;
+  margin-top: 3em;
+}
+
+.Input {
+  margin: 1em 0;
+  color: #333;
+  font-size: 1.2em !important;
+}
+
+textarea {
+  font-size: 1em !important;
+  color: #333;
+}
+
+h2 {
+  margin-bottom: 1.5em;
+}
+
+a {
+  margin-top: 4px;
+  font-weight: 200;
+  text-decoration: none;
+  min-width: 140px;
+  line-height: 36px;
+  color: #333;
+  margin-right: 6px;
+}
+
+a:hover {
+  border-bottom: 4px solid;
+  border-color: #124086;
+}
+
+.active {
+  border-bottom: 4px solid;
+  border-color: #124086;
+}
